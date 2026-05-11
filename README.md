@@ -14,11 +14,13 @@ The game starts by filling 3 tubes with random colored balls. The 4th tube is em
 
 The project has two main classes:
 • Stack class — handles the balls inside each tube. Has push, pop, isEmpty, isFull, and allsame functions.
+
 • Game class — controls the game. Has startGame to fill tubes, displayGame to show state, moveBall to move balls, checkWin to check if player won, and start to run the game loop.
 Technologies Used
 • C++ — main programming language
 • Stack data structure — used to store balls in each tube
 • OOP (classes) — Stack and Game are separate classes
+
 #How to Run
 
 • Open the file in any C++ compiler like Code::Blocks or VS Code.
